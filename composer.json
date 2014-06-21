@@ -1,6 +1,5 @@
 {
 	"name": "arc/arc",
-	"version": "1.0",
 	"type": "library",
 	"description": "Ariadne Component Library: All Components",
 	"keywords": ["component","components"],
