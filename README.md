@@ -20,6 +20,6 @@ Installation
 
 Install via Composer:
 
-php composer.phar create-project arc/arc {$path}
+    php composer.phar create-project arc/arc {$path}
 
 This will download and install all arc components.
