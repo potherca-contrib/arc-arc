@@ -6,8 +6,8 @@
 
 	error_reporting(E_ALL|E_STRICT);
 
-    $vendorDirectory = __DIR__ . '/../vendor');
-    $simpleTestSourceDirectory = $vendorDirectory . '/lastcraft/simpletest');
+    $vendorDirectory = __DIR__ . '/../vendor';
+    $simpleTestSourceDirectory = $vendorDirectory . '/lastcraft/simpletest';
 	
 	include_once($vendorDirectory . '/autoload.php');
 
