@@ -21,7 +21,7 @@ Thanks for wanting to contribute. Here's a quick guide.
   API. Don't cram in unneeded features.
 * Don't extend other classes. Really. Unless you have tried composition ( proxying ) and 
   traits first. And then still don't.
-* ARC conforms to PSR-2 for coding style, not because we love it, but because we need 
+* ARC conforms to [PSR-2][PSR2] for coding style, not because we love it, but because we need 
   a standard so we don't start fighting about it.
 * Make sure you have added the necessary tests for your changes.
 * Run _all_ the tests to assure nothing else was accidentally broken.
@@ -57,3 +57,6 @@ Muze BV. acknowledges that, except as explicitly described in this Agreement, an
 you provide is on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED,
 INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS
 FOR A PARTICULAR PURPOSE.
+
+
+[PSR2]: http://www.php-fig.org/psr/psr-2/
